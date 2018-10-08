@@ -1,4 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Alegreya+Sans:300,700");
 h1 {
   color: red; }
-  h1 span {
-    color: blue; }
+
+nav {
+  background-color: orange; }
+  nav a {
+    color: white; }
+
+footer {
+  text-align: center; }
+  footer .jumbotron-fluid {
+    text-align: center; }
+  footer .fab {
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+    color: orange; }
+  footer a:hover {
+    text-decoration: none; }
+
+body {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 300; }

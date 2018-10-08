@@ -1,1 +1,8 @@
 @import'base';
+@import 'nav';
+@import 'footer';
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans:300,700');
+body {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 300;
+}
